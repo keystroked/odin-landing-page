@@ -152,7 +152,7 @@ li{
 
 
 .footer-text{
-    padding-top:15px;
+    padding-top:28px;
     background-color: #1F2937;
     color:#E5E7EB;
     flex: 1;
@@ -198,5 +198,7 @@ h4.cta-header{
     flex-direction: row;
     justify-content: space-around;
     border-radius: 8px;
+    padding-left:80px;
+    padding-right:80px;
 
 }
