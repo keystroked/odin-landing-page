@@ -139,6 +139,8 @@ li{
     flex-direction: row;
     justify-content: center;
     gap: 52px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .text{
@@ -176,7 +178,8 @@ li{
 
 
 .footer-text{
-    padding-top:28px;
+    padding-top:15px;
+    padding-bottom:15px;
     background-color: #1F2937;
     color:#E5E7EB;
     flex: 1;
@@ -217,7 +220,10 @@ h4.cta-header{
 
 #cta-important{
     background-color: #3882f6;
-    margin: 40px;
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left: 20%;
+    margin-right: 20%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
