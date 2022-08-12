@@ -8,6 +8,30 @@ body{
     text-align:center;
 }
 
+a:link { 
+    text-decoration: none; 
+    color:#E5E7EB;
+}
+
+
+a:visited { 
+    text-decoration: none; 
+    color:#E5E7EB;
+}
+
+
+a:hover { 
+    text-decoration: none;
+    color:#f3f3f3;
+
+}
+
+
+a:active { 
+    text-decoration: none;
+    color:#f3f3f3;
+}
+
 .logo,
 header {
     padding:15px;
@@ -27,7 +51,7 @@ h2{
     font-size: 36px;
     font-weight: 700;
     margin-bottom: 36px;
-    color:#1F2937
+    color:#1F2937;
 }
 
 #cta-text-important {
@@ -45,7 +69,7 @@ h2{
 
 header,
 .hero{
-    background-color: #1F2937
+    background-color: #1F2937;
 }
 
 button.hero-button{
